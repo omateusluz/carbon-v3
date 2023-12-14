@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "matheus",
+    "email": "faria@gmail.com",
+    "password": "$2b$10$q4VQtEC.sc3NDrcwY/ZBm.r8FYH0A3HiclVDqdmqPheRYxB/FifQe",
+    "token": "fi60pNr0Z-ag2dY"
+  },
+  {
+    "id": 2,
+    "username": "lucas",
+    "email": "lucas@gmail.com",
+    "password": "$2b$10$ky688qotBJDwy.ItwtftWuQMVK1NAFfYFzsRf9LLmPYCyfNDttUfC",
+    "token": "a5YZUAXo-3YcTD0"
+  }
+]

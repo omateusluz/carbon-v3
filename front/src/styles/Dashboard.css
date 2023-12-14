@@ -1,0 +1,460 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #ffffff;
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.index .bloco-III {
+  height: 458px;
+  left: 292px;
+  position: absolute;
+  top: 632px;
+  width: 1340px;
+}
+
+.index .transaction-IV {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 402px;
+  width: 1342px;
+}
+
+.index .line {
+  height: 1px;
+  left: 1856px;
+  object-fit: cover;
+  position: absolute;
+  top: 1805px;
+  width: 1336px;
+}
+
+.index .detalhes {
+  height: 40px;
+  left: 1280px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+  cursor: pointer;
+}
+
+.index .p {
+  color: #525866;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  left: 860px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper {
+  color: #525866;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  left: 429px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.index .p-2 {
+  color: #525866;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.index .foto {
+  background-color: #000000;
+  border-radius: 6px;
+  height: 40px;
+  left: 16px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.index .img {
+  height: 44px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: 44px;
+}
+
+.index .transaction-III {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 330px;
+  width: 1342px;
+}
+
+.index .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1336px;
+}
+
+.index .transaction-II {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 258px;
+  width: 1342px;
+}
+
+.index .transaction-i {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 186px;
+  width: 1342px;
+}
+
+.index .div-2 {
+  background-color: #e2e4e9;
+  border-radius: 6px;
+  height: 32px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 138px;
+  width: 1336px;
+}
+
+.index .p-3 {
+  color: #525866;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  left: 1264px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.index .p-4 {
+  color: #525866;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  left: 859px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 8px;
+  width: 37px;
+}
+
+.index .p-5 {
+  color: #525866;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  left: 429px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 8px;
+  width: 62px;
+}
+
+.index .p-6 {
+  color: #525866;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 8px;
+  width: 45px;
+}
+
+.index .filtrar {
+  border: 1px solid;
+  border-color: #e2e4e9;
+  border-radius: 6px;
+  height: 42px;
+  left: 1268px;
+  overflow: hidden;
+  position: absolute;
+  top: 64px;
+  width: 68px;
+  cursor: pointer;
+}
+
+.index .p-7 {
+  color: #868c98;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.index .pesquisar {
+  border: 1px solid;
+  border-color: #e2e4e9;
+  border-radius: 6px;
+  height: 42px;
+  left: 1150px;
+  overflow: hidden;
+  position: absolute;
+  top: 64px;
+  width: 102px;
+  cursor: pointer;
+}
+
+.index .h {
+  color: #868c98;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.index .h-2 {
+  color: #000000;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 700;
+  height: 18px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 64px;
+  white-space: nowrap;
+}
+
+.index .line-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 1336px;
+}
+
+.index .bloco-II {
+  height: 256px;
+  left: 292px;
+  position: absolute;
+  top: 248px;
+  width: 1336px;
+}
+
+.index .historico {
+  background-color: #e2e4e9;
+  border-radius: 16px;
+  height: 256px;
+  left: 1034px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 302px;
+  cursor: pointer;
+}
+
+.index .vector {
+  height: 194px;
+  left: 50px;
+  position: absolute;
+  top: 62px;
+  width: 202px;
+}
+
+.index .h-3 {
+  color: #000000;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 700;
+  height: 18px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.index .enviar {
+  background-color: #e2e4e9;
+  border-radius: 16px;
+  height: 256px;
+  left: 700px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 302px;
+  cursor: pointer;
+}
+
+.index .vector-2 {
+  height: 219px;
+  left: 21px;
+  position: absolute;
+  top: 37px;
+  width: 281px;
+}
+
+.index .carteira {
+  border: 1px solid;
+  border-color: #e2e4e9;
+  border-radius: 16px;
+  height: 256px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 668px;
+}
+
+.index .saldo {
+  border: 1px solid;
+  border-color: #e2e4e9;
+  border-radius: 16px;
+  height: 192px;
+  left: 18px;
+  overflow: hidden;
+  position: absolute;
+  top: 50px;
+  width: 632px;
+}
+
+.index .p-especial {
+  color: #000000;
+  font-family: Inter;
+  font-size: 56px;
+  font-weight: 900;
+  left: 51px;
+  letter-spacing: -0.01px;
+  line-height: 56px;
+  position: absolute;
+  text-align: center;
+  top: 67px;
+  white-space: nowrap;
+}
+
+.index .bloco-i {
+  height: 48px;
+  left: 292px;
+  position: absolute;
+  top: 136px;
+  width: 312px;
+}
+
+.index .h-4 {
+  color: #525866;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 0px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.index .h-5 {
+  color: #000000;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.index .menu {
+  height: 40px;
+  left: 292px;
+  position: absolute;
+  top: 32px;
+  width: 1336px;
+}
+
+.index .vector-3 {
+  height: 40px;
+  left: 1296px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+  cursor: pointer;
+}
+
+.index .vector-4 {
+  height: 40px;
+  left: 1240px;
+  position: absolute;
+  top: 0;
+  width: 40px;
+  cursor: pointer;
+}
+
+.index .foto-wrapper {
+  background-color: #000000;
+  border-radius: 6px;
+  height: 40px;
+  left: 1184px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.index .logo {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+  cursor: pointer;
+}

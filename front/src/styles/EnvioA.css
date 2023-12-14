@@ -1,0 +1,202 @@
+.indexA {
+    background-color: #e2e4e9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .indexA .div-wrapper {
+    background-color: #e2e4e9;
+    height: 1080px;
+    width: 1920px;
+  }
+  
+  .indexA .div {
+    background-color: #ffffff;
+    border-radius: 8px;
+    height: 513px;
+    left: 740px;
+    overflow: hidden;
+    position: relative;
+    top: 283px;
+    width: 440px;
+  }
+  
+  .indexA .button {
+    all: unset;
+    background-color: #000000;
+    border-radius: 6px;
+    box-sizing: border-box;
+    height: 40px;
+    left: 32px;
+    overflow: hidden;
+    position: absolute;
+    top: 441px;
+    width: 376px;
+    cursor: pointer;
+  }
+  
+  .indexA .h {
+    color: #e2e4e9;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 600;
+    left: 155px;
+    letter-spacing: 0;
+    line-height: 13px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .indexA .input {
+    border: 1px solid;
+    border-color: #e2e4e9;
+    border-radius: 6px;
+    height: 40px;
+    left: 32px;
+    overflow: hidden;
+    position: absolute;
+    top: 369px;
+    width: 376px;
+    padding-left: 16px;
+    width: 358px;
+  }
+  
+  .indexA .p {
+    color: #868c98;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: 13px;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+  }
+  
+  .indexA .text-wrapper {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 600;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: 13px;
+    position: absolute;
+    top: 347px;
+    white-space: nowrap;
+  }
+  
+  .indexA .group {
+    height: 61px;
+    left: 32px;
+    position: absolute;
+    top: 194px;
+    width: 378px;
+  }
+  
+  .indexA .data {
+    border: 1px solid;
+    border-color: #e2e4e9;
+    border-radius: 6px;
+    height: 40px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 21px;
+    width: 376px;
+    cursor: text;
+  }
+  
+  .indexA .h-2 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 13px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .indexA .group-2 {
+    height: 61px;
+    left: 32px;
+    position: absolute;
+    top: 271px;
+    width: 378px;
+  }
+  
+  .indexA .p-p {
+    background: none;
+    border: 1px solid;
+    border-color: #e2e4e9;
+    border-radius: 6px;
+    color: #868c98;
+    font-family: "Inter", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    height: 40px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 13px;
+    overflow: hidden;
+    padding: 0;
+    padding-left: 16px;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+    width: 358px;
+  }
+  
+  .indexA .line {
+    height: 1px;
+    left: 33px;
+    object-fit: cover;
+    position: absolute;
+    top: 161px;
+    width: 375px;
+  }
+  
+  .indexA .h-3 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 118px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 113px;
+    white-space: nowrap;
+  }
+  
+  .indexA .h-4 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 18px;
+    left: 136px;
+    letter-spacing: 0;
+    line-height: 18px;
+    position: absolute;
+    text-align: center;
+    top: 87px;
+    white-space: nowrap;
+  }
+  
+  .indexA .vector {
+    height: 40px;
+    left: 200px;
+    position: absolute;
+    top: 32px;
+    width: 40px;
+    cursor: pointer;
+  }
+  

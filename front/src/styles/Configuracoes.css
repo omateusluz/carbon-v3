@@ -1,0 +1,253 @@
+.configuracoes {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .configuracoes .group-wrapper {
+    background-color: #ffffff;
+    height: 1080px;
+    width: 1920px;
+  }
+  
+  .configuracoes .group {
+    height: 746px;
+    left: 292px;
+    position: relative;
+    top: 32px;
+    width: 1336px;
+  }
+  
+  .configuracoes .bloco-II {
+    height: 530px;
+    left: 0;
+    position: absolute;
+    top: 216px;
+    width: 1336px;
+  }
+  
+  .configuracoes .line {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 529px;
+    width: 1336px;
+  }
+  
+  .configuracoes .parte-v {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 350px;
+    width: 668px;
+  }
+  
+  .configuracoes .p {
+    color: #525866;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    left: 598px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 26px;
+    white-space: nowrap;
+  }
+  
+  .configuracoes .text-wrapper {
+    color: #868c98;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 26px;
+    white-space: nowrap;
+  }
+  
+  .configuracoes .h {
+    color: #000000;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    height: 18px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 18px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .configuracoes .img {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 423px;
+    width: 1336px;
+  }
+  
+  .configuracoes .parte-IV {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 244px;
+    width: 743px;
+  }
+  
+  .configuracoes .divE {
+    color: #000000;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    height: 18px;
+    left: 598px;
+    letter-spacing: 0;
+    line-height: 18px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .configuracoes .line-2 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 317px;
+    width: 1336px;
+  }
+  
+  .configuracoes .line-3 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 211px;
+    width: 1336px;
+  }
+  
+  .configuracoes .parte-II {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 138px;
+    width: 668px;
+  }
+  
+  .configuracoes .parte-II-wrapper {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 456px;
+    width: 662px;
+  }
+  
+  .configuracoes .parte-II-2 {
+    height: 42px;
+    position: relative;
+    width: 668px;
+  }
+  
+  .configuracoes .line-4 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 105px;
+    width: 1336px;
+  }
+  
+  .configuracoes .parte-i {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 32px;
+    width: 730px;
+  }
+  
+  .configuracoes .line-5 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: 1336px;
+  }
+  
+  .configuracoes .bloco-i {
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 104px;
+    width: 294px;
+  }
+  
+  .configuracoes .h-2 {
+    color: #525866;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 32px;
+    white-space: nowrap;
+  }
+  
+  .configuracoes .h-3 {
+    color: #000000;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .configuracoes .menu {
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1336px;
+  }
+  
+  .configuracoes .vector {
+    height: 40px;
+    left: 1296px;
+    position: absolute;
+    top: 0;
+    width: 40px;
+    cursor: pointer;
+  }
+  
+  .configuracoes .vector-2 {
+    height: 40px;
+    left: 1240px;
+    position: absolute;
+    top: 0;
+    width: 40px;
+    cursor: pointer;
+  }
+  
+  .configuracoes .logo {
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 40px;
+    cursor: pointer;
+  }
+  
