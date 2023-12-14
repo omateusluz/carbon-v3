@@ -1,0 +1,28 @@
+import React from "react";
+import "./style.css";
+
+export const Index = () => {
+  return (
+    <div className="index">
+      <div className="div-wrapper">
+        <div className="div">
+          <p className="p">
+            A quantia que você inseriu, será transferida em alguns instantes de sua conta para a conta do destinatário.
+          </p>
+          <img
+            className="line"
+            alt="Line"
+            src="line-6.svg"
+          />
+          <div className="h">Transação realizada com sucesso.</div>
+          <div className="text-wrapper">Enviar uma quantia</div>
+          <img
+            className="vector"
+            alt="Vector"
+            src="vector.svg"
+          />
+        </div>
+      </div>
+    </div>
+  );
+};

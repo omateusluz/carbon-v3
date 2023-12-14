@@ -1,0 +1,48 @@
+import React from "react";
+import "./style.css";
+
+export const Index = () => {
+  return (
+    <div className="index">
+      <div className="div-wrapper">
+        <div className="div">
+          <button className="button">
+            <div className="h">Compartilhar -&gt;</div>
+          </button>
+          <div className="data">
+            <div className="p">22/04/2022 -&gt; 15:45</div>
+          </div>
+          <div className="text-wrapper">Data e hora</div>
+          <div className="p-wrapper">
+            <div className="p">8593953</div>
+          </div>
+          <div className="h-2">Quantia</div>
+          <div className="data-2">
+            <div className="p">8593953</div>
+          </div>
+          <div className="h-3">Identificador da transação</div>
+          <div className="data-3">
+            <div className="p">42958673058679</div>
+          </div>
+          <div className="h-4">Identificador do usuário</div>
+          <div className="data-4">
+            <div className="p">Matheus Luz</div>
+          </div>
+          <div className="h-5">Enviado / Recebido</div>
+          <img
+            className="line"
+            alt="Line"
+            src="line-6.svg"
+          />
+          <p className="h-6">Confira mais informações do movimento.</p>
+          <div className="h-7">Detalhes da transação</div>
+          <img
+            className="vector"
+            alt="Vector"
+            src="vector.svg"
+          />
+        </div>
+      </div>
+    </div>
+  );
+};

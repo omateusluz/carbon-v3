@@ -1,0 +1,53 @@
+import React from "react";
+import "./style.css";
+
+export const Index = () => {
+  return (
+    <div className="index">
+      <div className="div-wrapper">
+        <div className="div">
+          <button className="button">
+            <div className="h">Enviar -&gt;</div>
+          </button>
+          <div className="input">
+            <p className="p">* * * * * * * *</p>
+          </div>
+          <div className="text-wrapper">Senha</div>
+          <p className="p-2">
+            Verifique a quantia, identificador e nome da conta destino. Após se certificar de que todos os dados estão
+            corretos, insira a senha e clique enviar para concluir a transação.
+          </p>
+          <img
+            className="line"
+            alt="Line"
+            src="line-6.svg"
+          />
+          <div className="data">
+            <div className="p">Lucas Prado</div>
+          </div>
+          <div className="h-2">Nome da conta destino</div>
+          <div className="p-wrapper">
+            <div className="p-3">42958673058679</div>
+          </div>
+          <div className="h-3">Identificador da conta destino</div>
+          <div className="data-2">
+            <div className="p-3">R$ 66.444,00</div>
+          </div>
+          <div className="h-4">Quantia que será enviada</div>
+          <img
+            className="img"
+            alt="Line"
+            src="line-6.svg"
+          />
+          <p className="h-5">Confira os detalhes do envio.</p>
+          <div className="h-6">Enviar uma quantia</div>
+          <img
+            className="vector"
+            alt="Vector"
+            src="vector.svg"
+          />
+        </div>
+      </div>
+    </div>
+  );
+};
